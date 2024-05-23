@@ -32,7 +32,7 @@ $ run Cloner.exe
 ```js
 - AiZeR xD..!
 - mohit.4sure#0
-- Discord - https://discord.gg/coderz
+- Discord - https://discord.gg/nukers
 - YouTube - https://youtube.com/@nukersop
 - GitHub - https://github.com/AxZeRxD
 - Replit - https://replit.com/@AIZERHUBKL
